@@ -1,5 +1,5 @@
-FROM ubuntu
- 
+FROM ubuntu:saucy
+
 RUN apt-get update
 
 #Runit
